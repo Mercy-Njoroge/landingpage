@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "hesed-page"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "hesed-page"
+	}
+}
